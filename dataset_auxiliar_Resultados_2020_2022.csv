@@ -1,0 +1,1141 @@
+Equipo_Local;Equipo_Visitante;Temporada;Goles_Local;Goles_Visitante;Puntos_Locales;Puntos_Visitantes
+Athletic;Barcelona;2019/2020;1;0;3;0
+Celta;Real Madrid;2019/2020;1;3;0;3
+Valencia;R. Sociedad;2019/2020;1;1;1;1
+Mallorca;Eibar;2019/2020;2;1;3;0
+Villarreal;Granada;2019/2020;4;4;1;1
+Leganés;Osasuna;2019/2020;0;1;0;3
+Alavés;Levante;2019/2020;1;0;3;0
+Espanyol;Sevilla;2019/2020;0;2;0;3
+Betis;Real Valladolid;2019/2020;1;2;0;3
+Atlético;Getafe;2019/2020;1;0;3;0
+Granada;Sevilla;2019/2020;0;1;0;3
+Levante;Villarreal;2019/2020;2;1;3;0
+Osasuna;Eibar;2019/2020;0;0;1;1
+Real Madrid;Real Valladolid;2019/2020;1;1;1;1
+Getafe;Athletic;2019/2020;1;1;1;1
+Celta;Valencia;2019/2020;1;0;3;0
+Mallorca;R. Sociedad;2019/2020;0;1;0;3
+Alavés;Espanyol;2019/2020;0;0;1;1
+Leganés;Atlético;2019/2020;0;1;0;3
+Barcelona;Betis;2019/2020;5;2;3;0
+Sevilla;Celta;2019/2020;1;1;1;1
+Athletic;R. Sociedad;2019/2020;2;0;3;0
+Osasuna;Barcelona;2019/2020;2;2;1;1
+Getafe;Alavés;2019/2020;1;1;1;1
+Levante;Real Valladolid;2019/2020;2;0;3;0
+Betis;Leganés;2019/2020;2;1;3;0
+Valencia;Mallorca;2019/2020;2;0;3;0
+Atlético;Eibar;2019/2020;3;2;3;0
+Espanyol;Granada;2019/2020;0;3;0;3
+Villarreal;Real Madrid;2019/2020;2;2;1;1
+Mallorca;Athletic;2019/2020;0;0;1;1
+Real Madrid;Levante;2019/2020;3;2;3;0
+Leganés;Villarreal;2019/2020;0;3;0;3
+R. Sociedad;Atlético;2019/2020;2;0;3;0
+Barcelona;Valencia;2019/2020;5;2;3;0
+Eibar;Espanyol;2019/2020;1;2;0;3
+Alavés;Sevilla;2019/2020;0;1;0;3
+Celta;Granada;2019/2020;0;2;0;3
+Real Valladolid;Osasuna;2019/2020;1;1;1;1
+Betis;Getafe;2019/2020;1;1;1;1
+Osasuna;Betis;2019/2020;0;0;1;1
+Villarreal;Real Valladolid;2019/2020;2;0;3;0
+Levante;Eibar;2019/2020;0;0;1;1
+Atlético;Celta;2019/2020;0;0;1;1
+Granada;Barcelona;2019/2020;2;0;3;0
+Getafe;Mallorca;2019/2020;4;2;3;0
+Espanyol;R. Sociedad;2019/2020;1;3;0;3
+Valencia;Leganés;2019/2020;1;1;1;1
+Athletic;Alavés;2019/2020;2;0;3;0
+Sevilla;Real Madrid;2019/2020;0;1;0;3
+Real Valladolid;Granada;2019/2020;1;1;1;1
+Betis;Levante;2019/2020;3;1;3;0
+Barcelona;Villarreal;2019/2020;2;1;3;0
+Mallorca;Atlético;2019/2020;0;2;0;3
+Leganés;Athletic;2019/2020;1;1;1;1
+Valencia;Getafe;2019/2020;3;2;3;0
+Real Madrid;Osasuna;2019/2020;2;0;3;0
+Eibar;Sevilla;2019/2020;3;2;3;0
+Celta;Espanyol;2019/2020;1;1;1;1
+R. Sociedad;Alavés;2019/2020;3;0;3;0
+Villarreal;Betis;2019/2020;5;1;3;0
+Athletic;Valencia;2019/2020;0;1;0;3
+Getafe;Barcelona;2019/2020;0;2;0;3
+Granada;Leganés;2019/2020;1;0;3;0
+Atlético;Real Madrid;2019/2020;0;0;1;1
+Espanyol;Real Valladolid;2019/2020;0;2;0;3
+Eibar;Celta;2019/2020;2;0;3;0
+Alavés;Mallorca;2019/2020;2;0;3;0
+Levante;Osasuna;2019/2020;1;1;1;1
+Sevilla;R. Sociedad;2019/2020;3;2;3;0
+Betis;Eibar;2019/2020;1;1;1;1
+Leganés;Levante;2019/2020;1;2;0;3
+Real Madrid;Granada;2019/2020;4;2;3;0
+Valencia;Alavés;2019/2020;2;1;3;0
+Osasuna;Villarreal;2019/2020;2;1;3;0
+Mallorca;Espanyol;2019/2020;2;0;3;0
+Celta;Athletic;2019/2020;1;0;3;0
+Real Valladolid;Atlético;2019/2020;0;0;1;1
+R. Sociedad;Getafe;2019/2020;1;2;0;3
+Barcelona;Sevilla;2019/2020;4;0;3;0
+Granada;Osasuna;2019/2020;1;0;3;0
+Eibar;Barcelona;2019/2020;0;3;0;3
+Atlético;Valencia;2019/2020;1;1;1;1
+Getafe;Leganés;2019/2020;2;0;3;0
+Mallorca;Real Madrid;2019/2020;1;0;3;0
+Alavés;Celta;2019/2020;2;0;3;0
+R. Sociedad;Betis;2019/2020;3;1;3;0
+Espanyol;Villarreal;2019/2020;0;1;0;3
+Athletic;Real Valladolid;2019/2020;1;1;1;1
+Sevilla;Levante;2019/2020;1;0;3;0
+Villarreal;Alavés;2019/2020;4;1;3;0
+Leganés;Mallorca;2019/2020;1;0;3;0
+Real Valladolid;Eibar;2019/2020;2;0;3;0
+Atlético;Athletic;2019/2020;2;0;3;0
+Celta;R. Sociedad;2019/2020;0;1;0;3
+Granada;Betis;2019/2020;1;0;3;0
+Levante;Espanyol;2019/2020;0;1;0;3
+Sevilla;Getafe;2019/2020;2;0;3;0
+Osasuna;Valencia;2019/2020;3;1;3;0
+Barcelona;Real Madrid;2019/2020;0;0;1;1
+Alavés;Atlético;2019/2020;1;1;1;1
+Barcelona;Real Valladolid;2019/2020;5;1;3;0
+R. Sociedad;Levante;2019/2020;1;2;0;3
+Valencia;Sevilla;2019/2020;1;1;1;1
+Athletic;Espanyol;2019/2020;3;0;3;0
+Betis;Celta;2019/2020;2;1;3;0
+Real Madrid;Leganés;2019/2020;5;0;3;0
+Mallorca;Osasuna;2019/2020;2;2;1;1
+Eibar;Villarreal;2019/2020;2;1;3;0
+Getafe;Granada;2019/2020;3;1;3;0
+Espanyol;Valencia;2019/2020;1;2;0;3
+Levante;Barcelona;2019/2020;3;1;3;0
+Sevilla;Atlético;2019/2020;1;1;1;1
+Real Madrid;Betis;2019/2020;0;0;1;1
+Real Valladolid;Mallorca;2019/2020;3;0;3;0
+Villarreal;Athletic;2019/2020;0;0;1;1
+Osasuna;Alavés;2019/2020;4;2;3;0
+Leganés;Eibar;2019/2020;1;2;0;3
+Celta;Getafe;2019/2020;0;1;0;3
+Granada;R. Sociedad;2019/2020;1;2;0;3
+R. Sociedad;Leganés;2019/2020;1;1;1;1
+Alavés;Real Valladolid;2019/2020;3;0;3;0
+Valencia;Granada;2019/2020;2;0;3;0
+Eibar;Real Madrid;2019/2020;0;4;0;3
+Barcelona;Celta;2019/2020;4;1;3;0
+Mallorca;Villarreal;2019/2020;3;1;3;0
+Athletic;Levante;2019/2020;2;1;3;0
+Atlético;Espanyol;2019/2020;3;1;3;0
+Getafe;Osasuna;2019/2020;0;0;1;1
+Betis;Sevilla;2019/2020;1;2;0;3
+Levante;Mallorca;2019/2020;2;1;3;0
+Leganés;Barcelona;2019/2020;1;2;0;3
+Betis;Valencia;2019/2020;2;1;3;0
+Granada;Atlético;2019/2020;1;1;1;1
+Real Madrid;R. Sociedad;2019/2020;3;1;3;0
+Espanyol;Getafe;2019/2020;1;1;1;1
+Osasuna;Athletic;2019/2020;1;2;0;3
+Eibar;Alavés;2019/2020;0;2;0;3
+Villarreal;Celta;2019/2020;1;3;0;3
+Real Valladolid;Sevilla;2019/2020;0;1;0;3
+Celta;Real Valladolid;2019/2020;0;0;1;1
+Alavés;Real Madrid;2019/2020;1;2;0;3
+R. Sociedad;Eibar;2019/2020;4;1;3;0
+Mallorca;Betis;2019/2020;1;2;0;3
+Valencia;Villarreal;2019/2020;2;1;3;0
+Sevilla;Leganés;2019/2020;1;0;3;0
+Athletic;Granada;2019/2020;2;0;3;0
+Espanyol;Osasuna;2019/2020;2;4;0;3
+Getafe;Levante;2019/2020;4;0;3;0
+Atlético;Barcelona;2019/2020;0;1;0;3
+Villarreal;Atlético;2019/2020;0;0;1;1
+Real Madrid;Espanyol;2019/2020;2;0;3;0
+Granada;Alavés;2019/2020;3;0;3;0
+Levante;Valencia;2019/2020;2;4;0;3
+Barcelona;Mallorca;2019/2020;5;2;3;0
+Eibar;Getafe;2019/2020;0;1;0;3
+Betis;Athletic;2019/2020;3;2;3;0
+Real Valladolid;R. Sociedad;2019/2020;0;0;1;1
+Leganés;Celta;2019/2020;3;2;3;0
+Osasuna;Sevilla;2019/2020;1;1;1;1
+Alavés;Leganés;2019/2020;1;1;1;1
+Granada;Levante;2019/2020;1;2;0;3
+R. Sociedad;Barcelona;2019/2020;2;2;1;1
+Athletic;Eibar;2019/2020;0;0;1;1
+Atlético;Osasuna;2019/2020;2;0;3;0
+Getafe;Real Valladolid;2019/2020;2;0;3;0
+Celta;Mallorca;2019/2020;2;2;1;1
+Espanyol;Betis;2019/2020;2;2;1;1
+Sevilla;Villarreal;2019/2020;1;2;0;3
+Valencia;Real Madrid;2019/2020;1;1;1;1
+Eibar;Granada;2019/2020;3;0;3;0
+Mallorca;Sevilla;2019/2020;0;2;0;3
+Barcelona;Alavés;2019/2020;4;1;3;0
+Villarreal;Getafe;2019/2020;1;0;3;0
+Real Valladolid;Valencia;2019/2020;1;1;1;1
+Leganés;Espanyol;2019/2020;2;0;3;0
+Osasuna;R. Sociedad;2019/2020;3;4;0;3
+Betis;Atlético;2019/2020;1;2;0;3
+Levante;Celta;2019/2020;3;1;3;0
+Real Madrid;Athletic;2019/2020;0;0;1;1
+Real Valladolid;Leganés;2019/2020;2;2;1;1
+Sevilla;Athletic;2019/2020;1;1;1;1
+Valencia;Eibar;2019/2020;1;0;3;0
+Getafe;Real Madrid;2019/2020;0;3;0;3
+Atlético;Levante;2019/2020;2;1;3;0
+Espanyol;Barcelona;2019/2020;2;2;1;1
+Granada;Mallorca;2019/2020;1;0;3;0
+R. Sociedad;Villarreal;2019/2020;1;2;0;3
+Alavés;Betis;2019/2020;1;1;1;1
+Celta;Osasuna;2019/2020;1;1;1;1
+Leganés;Getafe;2019/2020;0;3;0;3
+Levante;Alavés;2019/2020;0;1;0;3
+Real Madrid;Sevilla;2019/2020;2;1;3;0
+Osasuna;Real Valladolid;2019/2020;0;0;1;1
+Eibar;Atlético;2019/2020;2;0;3;0
+Mallorca;Valencia;2019/2020;4;1;3;0
+Betis;R. Sociedad;2019/2020;3;0;3;0
+Villarreal;Espanyol;2019/2020;1;2;0;3
+Athletic;Celta;2019/2020;1;1;1;1
+Barcelona;Granada;2019/2020;1;0;3;0
+Osasuna;Levante;2019/2020;2;0;3;0
+Espanyol;Athletic;2019/2020;1;1;1;1
+Valencia;Barcelona;2019/2020;2;0;3;0
+Alavés;Villarreal;2019/2020;1;2;0;3
+Sevilla;Granada;2019/2020;2;0;3;0
+Atlético;Leganés;2019/2020;0;0;1;1
+Celta;Eibar;2019/2020;0;0;1;1
+Getafe;Betis;2019/2020;1;0;3;0
+R. Sociedad;Mallorca;2019/2020;3;0;3;0
+Real Valladolid;Real Madrid;2019/2020;0;1;0;3
+Granada;Espanyol;2019/2020;2;1;3;0
+Real Madrid;Atlético;2019/2020;1;0;3;0
+Mallorca;Real Valladolid;2019/2020;0;1;0;3
+Valencia;Celta;2019/2020;1;0;3;0
+Leganés;R. Sociedad;2019/2020;2;1;3;0
+Eibar;Betis;2019/2020;1;1;1;1
+Athletic;Getafe;2019/2020;0;2;0;3
+Sevilla;Alavés;2019/2020;1;1;1;1
+Villarreal;Osasuna;2019/2020;3;1;3;0
+Barcelona;Levante;2019/2020;2;1;3;0
+Alavés;Eibar;2019/2020;2;1;3;0
+Levante;Leganés;2019/2020;2;0;3;0
+Getafe;Valencia;2019/2020;3;0;3;0
+Real Valladolid;Villarreal;2019/2020;1;1;1;1
+Atlético;Granada;2019/2020;1;0;3;0
+Espanyol;Mallorca;2019/2020;1;0;3;0
+R. Sociedad;Athletic;2019/2020;2;1;3;0
+Osasuna;Real Madrid;2019/2020;1;4;0;3
+Celta;Sevilla;2019/2020;2;1;3;0
+Betis;Barcelona;2019/2020;2;3;0;3
+Valencia;Atlético;2019/2020;2;2;1;1
+Mallorca;Alavés;2019/2020;1;0;3;0
+Barcelona;Getafe;2019/2020;2;1;3;0
+Villarreal;Levante;2019/2020;2;1;3;0
+Granada;Real Valladolid;2019/2020;2;1;3;0
+Sevilla;Espanyol;2019/2020;2;2;1;1
+Leganés;Betis;2019/2020;0;0;1;1
+Athletic;Osasuna;2019/2020;0;1;0;3
+Real Madrid;Celta;2019/2020;2;2;1;1
+Eibar;R. Sociedad;2019/2020;1;2;0;3
+Betis;Mallorca;2019/2020;3;2;3;0
+Celta;Leganés;2019/2020;1;0;3;0
+Barcelona;Eibar;2019/2020;5;0;3;0
+R. Sociedad;Valencia;2019/2020;3;0;3;0
+Levante;Real Madrid;2019/2020;1;0;3;0
+Osasuna;Granada;2019/2020;0;3;0;3
+Alavés;Athletic;2019/2020;2;1;3;0
+Real Valladolid;Espanyol;2019/2020;2;1;3;0
+Getafe;Sevilla;2019/2020;0;3;0;3
+Atlético;Villarreal;2019/2020;3;1;3;0
+R. Sociedad;Real Valladolid;2019/2020;1;0;3;0
+Eibar;Levante;2019/2020;3;0;3;0
+Valencia;Betis;2019/2020;2;1;3;0
+Leganés;Alavés;2019/2020;1;1;1;1
+Granada;Celta;2019/2020;0;0;1;1
+Sevilla;Osasuna;2019/2020;3;2;3;0
+Athletic;Villarreal;2019/2020;1;0;3;0
+Espanyol;Atlético;2019/2020;1;1;1;1
+Mallorca;Getafe;2019/2020;0;1;0;3
+Real Madrid;Barcelona;2019/2020;2;0;3;0
+Alavés;Valencia;2019/2020;1;1;1;1
+Eibar;Mallorca;2019/2020;1;2;0;3
+Atlético;Sevilla;2019/2020;2;2;1;1
+Barcelona;R. Sociedad;2019/2020;1;0;3;0
+Getafe;Celta;2019/2020;0;0;1;1
+Osasuna;Espanyol;2019/2020;1;0;3;0
+Real Valladolid;Athletic;2019/2020;1;4;0;3
+Levante;Granada;2019/2020;1;1;1;1
+Villarreal;Leganés;2019/2020;1;2;0;3
+Betis;Real Madrid;2019/2020;2;1;3;0
+Sevilla;Betis;2019/2020;2;0;3;0
+Granada;Getafe;2019/2020;2;1;3;0
+Valencia;Levante;2019/2020;1;1;1;1
+Espanyol;Alavés;2019/2020;2;0;3;0
+Celta;Villarreal;2019/2020;0;1;0;3
+Leganés;Real Valladolid;2019/2020;1;2;0;3
+Mallorca;Barcelona;2019/2020;0;4;0;3
+Athletic;Atlético;2019/2020;1;1;1;1
+Real Madrid;Eibar;2019/2020;3;1;3;0
+R. Sociedad;Osasuna;2019/2020;1;1;1;1
+Levante;Sevilla;2019/2020;1;1;1;1
+Betis;Granada;2019/2020;2;2;1;1
+Getafe;Espanyol;2019/2020;0;0;1;1
+Villarreal;Mallorca;2019/2020;1;0;3;0
+Barcelona;Leganés;2019/2020;2;0;3;0
+Eibar;Athletic;2019/2020;2;2;1;1
+Real Valladolid;Celta;2019/2020;0;0;1;1
+Osasuna;Atlético;2019/2020;0;5;0;3
+Alavés;R. Sociedad;2019/2020;2;0;3;0
+Real Madrid;Valencia;2019/2020;3;0;3;0
+Mallorca;Leganés;2019/2020;1;1;1;1
+Granada;Villarreal;2019/2020;0;1;0;3
+Sevilla;Barcelona;2019/2020;0;0;1;1
+Espanyol;Levante;2019/2020;1;3;0;3
+Athletic;Betis;2019/2020;1;0;3;0
+Getafe;Eibar;2019/2020;1;1;1;1
+Atlético;Real Valladolid;2019/2020;1;0;3;0
+Celta;Alavés;2019/2020;6;0;3;0
+Valencia;Osasuna;2019/2020;2;0;3;0
+R. Sociedad;Real Madrid;2019/2020;1;2;0;3
+Villarreal;Sevilla;2019/2020;2;2;1;1
+Leganés;Granada;2019/2020;0;0;1;1
+Levante;Atlético;2019/2020;0;1;0;3
+Real Valladolid;Getafe;2019/2020;1;1;1;1
+Barcelona;Athletic;2019/2020;1;0;3;0
+Alavés;Osasuna;2019/2020;0;1;0;3
+R. Sociedad;Celta;2019/2020;0;1;0;3
+Real Madrid;Mallorca;2019/2020;2;0;3;0
+Eibar;Valencia;2019/2020;1;0;3;0
+Betis;Espanyol;2019/2020;1;0;3;0
+Sevilla;Real Valladolid;2019/2020;1;1;1;1
+Athletic;Mallorca;2019/2020;3;1;3;0
+Celta;Barcelona;2019/2020;2;2;1;1
+Osasuna;Leganés;2019/2020;2;1;3;0
+Atlético;Alavés;2019/2020;2;1;3;0
+Levante;Betis;2019/2020;4;2;3;0
+Villarreal;Valencia;2019/2020;2;0;3;0
+Granada;Eibar;2019/2020;1;2;0;3
+Espanyol;Real Madrid;2019/2020;0;1;0;3
+Getafe;R. Sociedad;2019/2020;2;1;3;0
+Mallorca;Celta;2019/2020;5;1;3;0
+Leganés;Sevilla;2019/2020;0;3;0;3
+Barcelona;Atlético;2019/2020;2;2;1;1
+Alavés;Granada;2019/2020;0;2;0;3
+Valencia;Athletic;2019/2020;0;2;0;3
+Betis;Villarreal;2019/2020;0;2;0;3
+Real Valladolid;Levante;2019/2020;0;0;1;1
+Eibar;Osasuna;2019/2020;0;2;0;3
+R. Sociedad;Espanyol;2019/2020;2;1;3;0
+Real Madrid;Getafe;2019/2020;1;0;3;0
+Atlético;Mallorca;2019/2020;3;0;3;0
+Celta;Betis;2019/2020;1;1;1;1
+Real Valladolid;Alavés;2019/2020;1;0;3;0
+Granada;Valencia;2019/2020;2;2;1;1
+Athletic;Real Madrid;2019/2020;0;1;0;3
+Espanyol;Leganés;2019/2020;0;1;0;3
+Osasuna;Getafe;2019/2020;0;0;1;1
+Villarreal;Barcelona;2019/2020;1;4;0;3
+Levante;R. Sociedad;2019/2020;1;1;1;1
+Sevilla;Eibar;2019/2020;1;0;3;0
+Valencia;Real Valladolid;2019/2020;2;1;3;0
+Celta;Atlético;2019/2020;1;1;1;1
+Betis;Osasuna;2019/2020;3;0;3;0
+Getafe;Villarreal;2019/2020;1;3;0;3
+Barcelona;Espanyol;2019/2020;1;0;3;0
+Eibar;Leganés;2019/2020;0;0;1;1
+Mallorca;Levante;2019/2020;2;0;3;0
+Athletic;Sevilla;2019/2020;1;2;0;3
+R. Sociedad;Granada;2019/2020;2;3;0;3
+Real Madrid;Alavés;2019/2020;2;0;3;0
+Osasuna;Celta;2019/2020;2;1;3;0
+Real Valladolid;Barcelona;2019/2020;0;1;0;3
+Atlético;Betis;2019/2020;1;0;3;0
+Espanyol;Eibar;2019/2020;0;2;0;3
+Levante;Athletic;2019/2020;1;2;0;3
+Leganés;Valencia;2019/2020;1;0;3;0
+Sevilla;Mallorca;2019/2020;2;0;3;0
+Alavés;Getafe;2019/2020;0;0;1;1
+Villarreal;R. Sociedad;2019/2020;1;2;0;3
+Granada;Real Madrid;2019/2020;1;2;0;3
+Eibar;Real Valladolid;2019/2020;3;1;3;0
+Athletic;Leganés;2019/2020;0;2;0;3
+Barcelona;Osasuna;2019/2020;1;2;0;3
+Betis;Alavés;2019/2020;1;2;0;3
+Real Madrid;Villarreal;2019/2020;2;1;3;0
+Valencia;Espanyol;2019/2020;1;0;3;0
+Mallorca;Granada;2019/2020;1;2;0;3
+Getafe;Atlético;2019/2020;0;2;0;3
+Celta;Levante;2019/2020;2;3;0;3
+R. Sociedad;Sevilla;2019/2020;0;0;1;1
+Alavés;Barcelona;2019/2020;0;5;0;3
+Villarreal;Eibar;2019/2020;4;0;3;0
+Real Valladolid;Betis;2019/2020;2;0;3;0
+Espanyol;Celta;2019/2020;0;0;1;1
+Osasuna;Mallorca;2019/2020;2;2;1;1
+Levante;Getafe;2019/2020;1;0;3;0
+Sevilla;Valencia;2019/2020;1;0;3;0
+Leganés;Real Madrid;2019/2020;2;2;1;1
+Granada;Athletic;2019/2020;4;0;3;0
+Atlético;R. Sociedad;2019/2020;1;1;1;1
+Eibar;Celta;2020/2021;0;0;1;1
+Granada;Athletic;2020/2021;2;0;3;0
+Cádiz;Osasuna;2020/2021;0;2;0;3
+Alavés;Betis;2020/2021;0;1;0;3
+Real Valladolid;R. Sociedad;2020/2021;1;1;1;1
+Villarreal;Huesca;2020/2021;1;1;1;1
+Valencia;Levante;2020/2021;4;2;3;0
+Atlético;Sevilla;2020/2021;2;0;3;0
+Real Madrid;Getafe;2020/2021;2;0;3;0
+Barcelona;Elche;2020/2021;3;0;3;0
+Villarreal;Eibar;2020/2021;2;1;3;0
+Getafe;Osasuna;2020/2021;1;0;3;0
+Celta;Valencia;2020/2021;2;1;3;0
+Huesca;Cádiz;2020/2021;0;2;0;3
+Betis;Real Valladolid;2020/2021;2;0;3;0
+Granada;Alavés;2020/2021;2;1;3;0
+R. Sociedad;Real Madrid;2020/2021;0;0;1;1
+Athletic;Barcelona;2020/2021;2;3;0;3
+Levante;Atlético;2020/2021;1;1;1;1
+Sevilla;Elche;2020/2021;2;0;3;0
+Alavés;Getafe;2020/2021;0;0;1;1
+Valencia;Huesca;2020/2021;1;1;1;1
+Elche;R. Sociedad;2020/2021;0;3;0;3
+Betis;Real Madrid;2020/2021;2;3;0;3
+Osasuna;Levante;2020/2021;1;3;0;3
+Eibar;Athletic;2020/2021;1;2;0;3
+Atlético;Granada;2020/2021;6;1;3;0
+Cádiz;Sevilla;2020/2021;1;3;0;3
+Real Valladolid;Celta;2020/2021;1;1;1;1
+Barcelona;Villarreal;2020/2021;4;0;3;0
+R. Sociedad;Valencia;2020/2021;0;1;0;3
+Getafe;Betis;2020/2021;3;0;3;0
+Huesca;Atlético;2020/2021;0;0;1;1
+Villarreal;Alavés;2020/2021;3;1;3;0
+Eibar;Elche;2020/2021;0;1;0;3
+Real Madrid;Real Valladolid;2020/2021;1;0;3;0
+Sevilla;Levante;2020/2021;1;0;3;0
+Athletic;Cádiz;2020/2021;0;1;0;3
+Celta;Barcelona;2020/2021;0;3;0;3
+Granada;Osasuna;2020/2021;2;0;3;0
+Real Valladolid;Eibar;2020/2021;1;2;0;3
+Atlético;Villarreal;2020/2021;0;0;1;1
+Elche;Huesca;2020/2021;0;0;1;1
+R. Sociedad;Getafe;2020/2021;3;0;3;0
+Valencia;Betis;2020/2021;0;2;0;3
+Osasuna;Celta;2020/2021;2;0;3;0
+Alavés;Athletic;2020/2021;1;0;3;0
+Levante;Real Madrid;2020/2021;0;2;0;3
+Cádiz;Granada;2020/2021;1;1;1;1
+Barcelona;Sevilla;2020/2021;1;1;1;1
+Granada;Sevilla;2020/2021;1;0;3;0
+Celta;Atlético;2020/2021;0;2;0;3
+Real Madrid;Cádiz;2020/2021;0;1;0;3
+Getafe;Barcelona;2020/2021;1;0;3;0
+Eibar;Osasuna;2020/2021;0;0;1;1
+Athletic;Levante;2020/2021;2;0;3;0
+Villarreal;Valencia;2020/2021;2;1;3;0
+Alavés;Elche;2020/2021;0;2;0;3
+Huesca;Real Valladolid;2020/2021;2;2;1;1
+Betis;R. Sociedad;2020/2021;0;3;0;3
+Elche;Valencia;2020/2021;2;1;3;0
+Barcelona;Real Madrid;2020/2021;1;3;0;3
+Osasuna;Athletic;2020/2021;1;0;3;0
+Sevilla;Eibar;2020/2021;0;1;0;3
+Atlético;Betis;2020/2021;2;0;3;0
+Real Valladolid;Alavés;2020/2021;0;2;0;3
+Cádiz;Villarreal;2020/2021;0;0;1;1
+Getafe;Granada;2020/2021;0;1;0;3
+R. Sociedad;Huesca;2020/2021;4;1;3;0
+Levante;Celta;2020/2021;1;1;1;1
+Eibar;Cádiz;2020/2021;0;2;0;3
+Real Madrid;Huesca;2020/2021;4;1;3;0
+Athletic;Sevilla;2020/2021;2;1;3;0
+Osasuna;Atlético;2020/2021;1;3;0;3
+Alavés;Barcelona;2020/2021;1;1;1;1
+Betis;Elche;2020/2021;3;1;3;0
+Celta;R. Sociedad;2020/2021;1;4;0;3
+Granada;Levante;2020/2021;1;1;1;1
+Valencia;Getafe;2020/2021;2;2;1;1
+Villarreal;Real Valladolid;2020/2021;2;0;3;0
+Elche;Celta;2020/2021;1;1;1;1
+Huesca;Eibar;2020/2021;1;1;1;1
+Barcelona;Betis;2020/2021;5;2;3;0
+Sevilla;Osasuna;2020/2021;1;0;3;0
+Atlético;Cádiz;2020/2021;4;0;3;0
+Getafe;Villarreal;2020/2021;1;3;0;3
+R. Sociedad;Granada;2020/2021;2;0;3;0
+Real Valladolid;Athletic;2020/2021;2;1;3;0
+Levante;Alavés;2020/2021;1;1;1;1
+Valencia;Real Madrid;2020/2021;4;1;3;0
+Osasuna;Huesca;2020/2021;1;1;1;1
+Levante;Elche;2020/2021;1;1;1;1
+Villarreal;Real Madrid;2020/2021;1;1;1;1
+Sevilla;Celta;2020/2021;4;2;3;0
+Atlético;Barcelona;2020/2021;1;0;3;0
+Eibar;Getafe;2020/2021;0;0;1;1
+Cádiz;R. Sociedad;2020/2021;0;1;0;3
+Granada;Real Valladolid;2020/2021;1;3;0;3
+Alavés;Valencia;2020/2021;2;2;1;1
+Athletic;Betis;2020/2021;4;0;3;0
+Real Valladolid;Levante;2020/2021;1;1;1;1
+Elche;Cádiz;2020/2021;1;1;1;1
+Valencia;Atlético;2020/2021;0;1;0;3
+Huesca;Sevilla;2020/2021;0;1;0;3
+Real Madrid;Alavés;2020/2021;1;2;0;3
+Barcelona;Osasuna;2020/2021;4;0;3;0
+Getafe;Athletic;2020/2021;1;1;1;1
+Celta;Granada;2020/2021;3;1;3;0
+R. Sociedad;Villarreal;2020/2021;1;1;1;1
+Betis;Eibar;2020/2021;0;2;0;3
+Athletic;Celta;2020/2021;0;2;0;3
+Levante;Getafe;2020/2021;3;0;3;0
+Sevilla;Real Madrid;2020/2021;0;1;0;3
+Atlético;Real Valladolid;2020/2021;2;0;3;0
+Cádiz;Barcelona;2020/2021;2;1;3;0
+Granada;Huesca;2020/2021;3;2;3;0
+Osasuna;Betis;2020/2021;0;2;0;3
+Villarreal;Elche;2020/2021;0;0;1;1
+Alavés;R. Sociedad;2020/2021;0;0;1;1
+Eibar;Valencia;2020/2021;0;0;1;1
+Real Valladolid;Osasuna;2020/2021;3;2;3;0
+Valencia;Athletic;2020/2021;2;2;1;1
+Getafe;Sevilla;2020/2021;0;1;0;3
+Huesca;Alavés;2020/2021;1;0;3;0
+Real Madrid;Atlético;2020/2021;2;0;3;0
+R. Sociedad;Eibar;2020/2021;1;1;1;1
+Betis;Villarreal;2020/2021;1;1;1;1
+Elche;Granada;2020/2021;0;1;0;3
+Barcelona;Levante;2020/2021;1;0;3;0
+Celta;Cádiz;2020/2021;4;0;3;0
+Athletic;Huesca;2020/2021;2;0;3;0
+Atlético;Elche;2020/2021;3;1;3;0
+Barcelona;Valencia;2020/2021;2;2;1;1
+Levante;R. Sociedad;2020/2021;2;1;3;0
+Osasuna;Villarreal;2020/2021;1;3;0;3
+Sevilla;Real Valladolid;2020/2021;1;1;1;1
+Celta;Alavés;2020/2021;2;0;3;0
+Granada;Betis;2020/2021;2;0;3;0
+Cádiz;Getafe;2020/2021;0;2;0;3
+Eibar;Real Madrid;2020/2021;1;3;0;3
+Elche;Osasuna;2020/2021;2;2;1;1
+Valencia;Sevilla;2020/2021;0;1;0;3
+Huesca;Levante;2020/2021;1;1;1;1
+R. Sociedad;Atlético;2020/2021;0;2;0;3
+Villarreal;Athletic;2020/2021;1;1;1;1
+Real Valladolid;Barcelona;2020/2021;0;3;0;3
+Getafe;Celta;2020/2021;1;1;1;1
+Real Madrid;Granada;2020/2021;2;0;3;0
+Alavés;Eibar;2020/2021;2;1;3;0
+Betis;Cádiz;2020/2021;1;0;3;0
+Sevilla;Villarreal;2020/2021;2;0;3;0
+Barcelona;Eibar;2020/2021;1;1;1;1
+Levante;Betis;2020/2021;4;3;3;0
+Cádiz;Real Valladolid;2020/2021;0;0;1;1
+Granada;Valencia;2020/2021;2;1;3;0
+Atlético;Getafe;2020/2021;1;0;3;0
+Celta;Huesca;2020/2021;2;1;3;0
+Elche;Real Madrid;2020/2021;1;1;1;1
+Athletic;R. Sociedad;2020/2021;0;1;0;3
+Osasuna;Alavés;2020/2021;1;1;1;1
+Villarreal;Levante;2020/2021;2;1;3;0
+Betis;Sevilla;2020/2021;1;1;1;1
+Getafe;Real Valladolid;2020/2021;0;1;0;3
+Real Madrid;Celta;2020/2021;2;0;3;0
+Athletic;Elche;2020/2021;1;0;3;0
+Alavés;Atlético;2020/2021;1;2;0;3
+Eibar;Granada;2020/2021;2;0;3;0
+R. Sociedad;Osasuna;2020/2021;1;1;1;1
+Huesca;Barcelona;2020/2021;0;1;0;3
+Valencia;Cádiz;2020/2021;1;1;1;1
+Celta;Villarreal;2020/2021;0;4;0;3
+Sevilla;R. Sociedad;2020/2021;3;2;3;0
+Granada;Barcelona;2020/2021;0;4;0;3
+Osasuna;Real Madrid;2020/2021;0;0;1;1
+Levante;Eibar;2020/2021;2;1;3;0
+Cádiz;Alavés;2020/2021;3;1;3;0
+Real Valladolid;Valencia;2020/2021;0;1;0;3
+Elche;Getafe;2020/2021;1;3;0;3
+Huesca;Betis;2020/2021;0;2;0;3
+Atlético;Athletic;2020/2021;2;1;3;0
+Real Madrid;Athletic;2020/2021;3;1;3;0
+Barcelona;R. Sociedad;2020/2021;2;1;3;0
+Real Valladolid;Elche;2020/2021;2;2;1;1
+Cádiz;Levante;2020/2021;2;2;1;1
+Alavés;Sevilla;2020/2021;1;2;0;3
+Getafe;Huesca;2020/2021;1;0;3;0
+Betis;Celta;2020/2021;2;1;3;0
+Villarreal;Granada;2020/2021;2;2;1;1
+Valencia;Osasuna;2020/2021;1;1;1;1
+Eibar;Atlético;2020/2021;1;2;0;3
+Levante;Real Valladolid;2020/2021;2;2;1;1
+Huesca;Villarreal;2020/2021;0;0;1;1
+Sevilla;Cádiz;2020/2021;3;0;3;0
+R. Sociedad;Betis;2020/2021;2;2;1;1
+Alavés;Real Madrid;2020/2021;1;4;0;3
+Osasuna;Granada;2020/2021;3;1;3;0
+Elche;Barcelona;2020/2021;0;2;0;3
+Celta;Eibar;2020/2021;1;1;1;1
+Atlético;Valencia;2020/2021;3;1;3;0
+Athletic;Getafe;2020/2021;5;1;3;0
+Real Valladolid;Huesca;2020/2021;1;3;0;3
+Eibar;Sevilla;2020/2021;0;2;0;3
+Real Madrid;Levante;2020/2021;1;2;0;3
+Valencia;Elche;2020/2021;1;0;3;0
+Villarreal;R. Sociedad;2020/2021;1;1;1;1
+Getafe;Alavés;2020/2021;0;0;1;1
+Cádiz;Atlético;2020/2021;2;4;0;3
+Granada;Celta;2020/2021;0;0;1;1
+Barcelona;Athletic;2020/2021;2;1;3;0
+Betis;Osasuna;2020/2021;1;0;3;0
+Alavés;Real Valladolid;2020/2021;1;0;3;0
+Levante;Granada;2020/2021;2;2;1;1
+Huesca;Real Madrid;2020/2021;1;2;0;3
+Elche;Villarreal;2020/2021;2;2;1;1
+Sevilla;Getafe;2020/2021;3;0;3;0
+R. Sociedad;Cádiz;2020/2021;4;1;3;0
+Athletic;Valencia;2020/2021;1;1;1;1
+Osasuna;Eibar;2020/2021;2;1;3;0
+Betis;Barcelona;2020/2021;2;3;0;3
+Atlético;Celta;2020/2021;2;2;1;1
+Celta;Elche;2020/2021;3;1;3;0
+Granada;Atlético;2020/2021;1;2;0;3
+Sevilla;Huesca;2020/2021;1;0;3;0
+Eibar;Real Valladolid;2020/2021;1;1;1;1
+Barcelona;Alavés;2020/2021;5;1;3;0
+Getafe;R. Sociedad;2020/2021;0;1;0;3
+Real Madrid;Valencia;2020/2021;2;0;3;0
+Levante;Osasuna;2020/2021;0;1;0;3
+Villarreal;Betis;2020/2021;1;2;0;3
+Cádiz;Athletic;2020/2021;0;4;0;3
+Betis;Getafe;2020/2021;1;0;3;0
+Elche;Eibar;2020/2021;1;0;3;0
+Atlético;Levante;2020/2021;0;2;0;3
+Valencia;Celta;2020/2021;2;0;3;0
+Real Valladolid;Real Madrid;2020/2021;0;1;0;3
+Barcelona;Cádiz;2020/2021;1;1;1;1
+R. Sociedad;Alavés;2020/2021;4;0;3;0
+Huesca;Granada;2020/2021;3;2;3;0
+Athletic;Villarreal;2020/2021;1;1;1;1
+Osasuna;Sevilla;2020/2021;0;2;0;3
+Levante;Athletic;2020/2021;1;1;1;1
+Eibar;Huesca;2020/2021;1;1;1;1
+Sevilla;Barcelona;2020/2021;0;2;0;3
+Alavés;Osasuna;2020/2021;0;1;0;3
+Getafe;Valencia;2020/2021;3;0;3;0
+Celta;Real Valladolid;2020/2021;1;1;1;1
+Cádiz;Betis;2020/2021;0;1;0;3
+Granada;Elche;2020/2021;2;1;3;0
+Villarreal;Atlético;2020/2021;0;2;0;3
+Real Madrid;R. Sociedad;2020/2021;1;1;1;1
+Valencia;Villarreal;2020/2021;2;1;3;0
+Real Valladolid;Getafe;2020/2021;2;1;3;0
+Elche;Sevilla;2020/2021;2;1;3;0
+Cádiz;Eibar;2020/2021;1;0;3;0
+Osasuna;Barcelona;2020/2021;0;2;0;3
+Huesca;Celta;2020/2021;3;4;0;3
+Atlético;Real Madrid;2020/2021;1;1;1;1
+R. Sociedad;Levante;2020/2021;1;0;3;0
+Athletic;Granada;2020/2021;2;1;3;0
+Betis;Alavés;2020/2021;3;2;3;0
+Levante;Valencia;2020/2021;1;0;3;0
+Alavés;Cádiz;2020/2021;1;1;1;1
+Real Madrid;Elche;2020/2021;2;1;3;0
+Osasuna;Real Valladolid;2020/2021;0;0;1;1
+Getafe;Atlético;2020/2021;0;0;1;1
+Celta;Athletic;2020/2021;0;0;1;1
+Granada;R. Sociedad;2020/2021;1;0;3;0
+Eibar;Villarreal;2020/2021;1;3;0;3
+Sevilla;Betis;2020/2021;1;0;3;0
+Barcelona;Huesca;2020/2021;4;1;3;0
+Betis;Levante;2020/2021;2;0;3;0
+Athletic;Eibar;2020/2021;1;1;1;1
+Celta;Real Madrid;2020/2021;1;3;0;3
+Huesca;Osasuna;2020/2021;0;0;1;1
+Real Valladolid;Sevilla;2020/2021;1;1;1;1
+Getafe;Elche;2020/2021;1;1;1;1
+Valencia;Granada;2020/2021;2;1;3;0
+Villarreal;Cádiz;2020/2021;2;1;3;0
+Atlético;Alavés;2020/2021;1;0;3;0
+R. Sociedad;Barcelona;2020/2021;1;6;0;3
+Levante;Huesca;2020/2021;0;2;0;3
+Granada;Villarreal;2020/2021;0;3;0;3
+Real Madrid;Eibar;2020/2021;2;0;3;0
+Osasuna;Getafe;2020/2021;0;0;1;1
+Alavés;Celta;2020/2021;1;3;0;3
+Elche;Betis;2020/2021;1;1;1;1
+Cádiz;Valencia;2020/2021;2;1;3;0
+Sevilla;Atlético;2020/2021;1;0;3;0
+Barcelona;Real Valladolid;2020/2021;1;0;3;0
+R. Sociedad;Athletic;2020/2021;1;1;1;1
+Huesca;Elche;2020/2021;3;1;3;0
+Getafe;Cádiz;2020/2021;0;1;0;3
+Athletic;Alavés;2020/2021;0;0;1;1
+Eibar;Levante;2020/2021;0;1;0;3
+Real Madrid;Barcelona;2020/2021;2;1;3;0
+Villarreal;Osasuna;2020/2021;1;2;0;3
+Valencia;R. Sociedad;2020/2021;2;2;1;1
+Real Valladolid;Granada;2020/2021;1;2;0;3
+Betis;Atlético;2020/2021;1;1;1;1
+Celta;Sevilla;2020/2021;3;4;0;3
+Levante;Sevilla;2020/2021;0;1;0;3
+Osasuna;Valencia;2020/2021;3;1;3;0
+Betis;Athletic;2020/2021;0;0;1;1
+Alavés;Villarreal;2020/2021;2;1;3;0
+Elche;Real Valladolid;2020/2021;1;1;1;1
+Cádiz;Real Madrid;2020/2021;0;3;0;3
+Atlético;Huesca;2020/2021;2;0;3;0
+R. Sociedad;Celta;2020/2021;2;1;3;0
+Granada;Eibar;2020/2021;4;1;3;0
+Barcelona;Getafe;2020/2021;5;2;3;0
+Elche;Levante;2020/2021;1;0;3;0
+Real Valladolid;Cádiz;2020/2021;1;1;1;1
+Valencia;Alavés;2020/2021;1;1;1;1
+Real Madrid;Betis;2020/2021;0;0;1;1
+Huesca;Getafe;2020/2021;0;2;0;3
+Villarreal;Barcelona;2020/2021;1;2;0;3
+Sevilla;Granada;2020/2021;2;1;3;0
+Celta;Osasuna;2020/2021;2;1;3;0
+Athletic;Atlético;2020/2021;2;1;3;0
+Eibar;R. Sociedad;2020/2021;0;1;0;3
+Osasuna;Elche;2020/2021;2;0;3;0
+R. Sociedad;Sevilla;2020/2021;1;2;0;3
+Atlético;Eibar;2020/2021;5;0;3;0
+Alavés;Huesca;2020/2021;1;0;3;0
+Cádiz;Celta;2020/2021;0;0;1;1
+Betis;Valencia;2020/2021;2;2;1;1
+Getafe;Real Madrid;2020/2021;0;0;1;1
+Levante;Villarreal;2020/2021;1;5;0;3
+Athletic;Real Valladolid;2020/2021;2;2;1;1
+Barcelona;Granada;2020/2021;1;2;0;3
+Celta;Levante;2020/2021;2;0;3;0
+Eibar;Alavés;2020/2021;3;0;3;0
+Elche;Atlético;2020/2021;0;1;0;3
+Huesca;R. Sociedad;2020/2021;1;0;3;0
+Real Madrid;Osasuna;2020/2021;2;0;3;0
+Real Valladolid;Betis;2020/2021;1;1;1;1
+Villarreal;Getafe;2020/2021;1;0;3;0
+Granada;Cádiz;2020/2021;0;1;0;3
+Valencia;Barcelona;2020/2021;2;3;0;3
+Sevilla;Athletic;2020/2021;0;1;0;3
+R. Sociedad;Elche;2020/2021;2;0;3;0
+Alavés;Levante;2020/2021;2;2;1;1
+Barcelona;Atlético;2020/2021;0;0;1;1
+Cádiz;Huesca;2020/2021;2;1;3;0
+Athletic;Osasuna;2020/2021;2;2;1;1
+Getafe;Eibar;2020/2021;0;1;0;3
+Valencia;Real Valladolid;2020/2021;3;0;3;0
+Villarreal;Celta;2020/2021;2;4;0;3
+Real Madrid;Sevilla;2020/2021;2;2;1;1
+Betis;Granada;2020/2021;2;1;3;0
+Osasuna;Cádiz;2020/2021;3;2;3;0
+Elche;Alavés;2020/2021;0;2;0;3
+Levante;Barcelona;2020/2021;3;2;3;0
+Sevilla;Valencia;2020/2021;1;0;3;0
+Huesca;Athletic;2020/2021;1;0;3;0
+Celta;Getafe;2020/2021;1;0;3;0
+Atlético;R. Sociedad;2020/2021;2;1;3;0
+Real Valladolid;Villarreal;2020/2021;0;2;0;3
+Eibar;Betis;2020/2021;1;1;1;1
+Granada;Real Madrid;2020/2021;1;4;0;3
+Barcelona;Celta;2020/2021;1;2;0;3
+Atlético;Osasuna;2020/2021;2;1;3;0
+Athletic;Real Madrid;2020/2021;0;1;0;3
+Valencia;Eibar;2020/2021;4;1;3;0
+Alavés;Granada;2020/2021;4;2;3;0
+R. Sociedad;Real Valladolid;2020/2021;4;1;3;0
+Betis;Huesca;2020/2021;1;0;3;0
+Cádiz;Elche;2020/2021;1;3;0;3
+Villarreal;Sevilla;2020/2021;4;0;3;0
+Getafe;Levante;2020/2021;2;1;3;0
+Levante;Cádiz;2020/2021;2;2;1;1
+Celta;Betis;2020/2021;2;3;0;3
+Eibar;Barcelona;2020/2021;0;1;0;3
+Elche;Athletic;2020/2021;2;0;3;0
+Real Valladolid;Atlético;2020/2021;1;2;0;3
+Huesca;Valencia;2020/2021;0;0;1;1
+Real Madrid;Villarreal;2020/2021;2;1;3;0
+Osasuna;R. Sociedad;2020/2021;0;1;0;3
+Granada;Getafe;2020/2021;0;0;1;1
+Sevilla;Alavés;2020/2021;1;0;3;0
+Valencia;Getafe;2021/2022;1;0;3;0
+Cádiz;Levante;2021/2022;1;1;1;1
+Mallorca;Betis;2021/2022;1;1;1;1
+Alavés;Real Madrid;2021/2022;1;4;0;3
+Osasuna;Espanyol;2021/2022;0;0;1;1
+Celta;Atlético;2021/2022;1;2;0;3
+Barcelona;R. Sociedad;2021/2022;4;2;3;0
+Sevilla;Rayo;2021/2022;3;0;3;0
+Villarreal;Granada;2021/2022;0;0;1;1
+Elche;Athletic;2021/2022;0;0;1;1
+Betis;Cádiz;2021/2022;1;1;1;1
+Alavés;Mallorca;2021/2022;0;1;0;3
+Espanyol;Villarreal;2021/2022;0;0;1;1
+Granada;Valencia;2021/2022;1;1;1;1
+Athletic;Barcelona;2021/2022;1;1;1;1
+R. Sociedad;Rayo;2021/2022;1;0;3;0
+Atlético;Elche;2021/2022;1;0;3;0
+Levante;Real Madrid;2021/2022;3;2;3;0
+Getafe;Sevilla;2021/2022;0;1;0;3
+Osasuna;Celta;2021/2022;0;0;1;1
+Mallorca;Espanyol;2021/2022;1;0;3;0
+Valencia;Alavés;2021/2022;3;0;3;0
+Celta;Athletic;2021/2022;0;1;0;3
+Elche;Sevilla;2021/2022;1;1;1;1
+R. Sociedad;Levante;2021/2022;1;0;3;0
+Betis;Real Madrid;2021/2022;0;1;0;3
+Barcelona;Getafe;2021/2022;2;1;3;0
+Cádiz;Osasuna;2021/2022;2;3;0;3
+Rayo;Granada;2021/2022;4;0;3;0
+Atlético;Villarreal;2021/2022;2;2;1;1
+Levante;Rayo;2021/2022;1;1;1;1
+Athletic;Mallorca;2021/2022;2;0;3;0
+Espanyol;Atlético;2021/2022;1;2;0;3
+Osasuna;Valencia;2021/2022;1;4;0;3
+Cádiz;R. Sociedad;2021/2022;0;2;0;3
+Real Madrid;Celta;2021/2022;5;2;3;0
+Getafe;Elche;2021/2022;0;1;0;3
+Granada;Betis;2021/2022;1;2;0;3
+Villarreal;Alavés;2021/2022;5;2;3;0
+Sevilla;Barcelona;2021/2022;1;1;1;1
+Celta;Cádiz;2021/2022;1;2;0;3
+Rayo;Getafe;2021/2022;3;0;3;0
+Atlético;Athletic;2021/2022;0;0;1;1
+Elche;Levante;2021/2022;1;1;1;1
+Alavés;Osasuna;2021/2022;0;2;0;3
+Mallorca;Villarreal;2021/2022;0;0;1;1
+R. Sociedad;Sevilla;2021/2022;0;0;1;1
+Betis;Espanyol;2021/2022;2;2;1;1
+Valencia;Real Madrid;2021/2022;1;2;0;3
+Barcelona;Granada;2021/2022;1;1;1;1
+Getafe;Atlético;2021/2022;1;2;0;3
+Athletic;Rayo;2021/2022;1;2;0;3
+Levante;Celta;2021/2022;0;2;0;3
+Espanyol;Alavés;2021/2022;1;0;3;0
+Sevilla;Valencia;2021/2022;3;1;3;0
+Real Madrid;Mallorca;2021/2022;6;1;3;0
+Villarreal;Elche;2021/2022;4;1;3;0
+Granada;R. Sociedad;2021/2022;2;3;0;3
+Osasuna;Betis;2021/2022;1;3;0;3
+Cádiz;Barcelona;2021/2022;0;0;1;1
+Alavés;Atlético;2021/2022;1;0;3;0
+Valencia;Athletic;2021/2022;1;1;1;1
+Sevilla;Espanyol;2021/2022;2;0;3;0
+Real Madrid;Villarreal;2021/2022;0;0;1;1
+Mallorca;Osasuna;2021/2022;2;3;0;3
+Barcelona;Levante;2021/2022;3;0;3;0
+Rayo;Cádiz;2021/2022;3;1;3;0
+R. Sociedad;Elche;2021/2022;1;0;3;0
+Betis;Getafe;2021/2022;2;0;3;0
+Celta;Granada;2021/2022;1;0;3;0
+Athletic;Alavés;2021/2022;1;0;3;0
+Osasuna;Rayo;2021/2022;1;0;3;0
+Mallorca;Levante;2021/2022;1;0;3;0
+Cádiz;Valencia;2021/2022;0;0;1;1
+Atlético;Barcelona;2021/2022;2;0;3;0
+Elche;Celta;2021/2022;1;0;3;0
+Espanyol;Real Madrid;2021/2022;2;1;3;0
+Getafe;R. Sociedad;2021/2022;1;1;1;1
+Villarreal;Betis;2021/2022;2;0;3;0
+Granada;Sevilla;2021/2022;1;0;3;0
+Levante;Getafe;2021/2022;0;0;1;1
+R. Sociedad;Mallorca;2021/2022;1;0;3;0
+Rayo;Elche;2021/2022;2;1;3;0
+Celta;Sevilla;2021/2022;0;1;0;3
+Villarreal;Osasuna;2021/2022;1;2;0;3
+Barcelona;Valencia;2021/2022;3;1;3;0
+Alavés;Betis;2021/2022;0;1;0;3
+Espanyol;Cádiz;2021/2022;2;0;3;0
+Real Madrid;Athletic;2021/2022;1;0;3;0
+Granada;Atlético;2021/2022;2;1;3;0
+Osasuna;Granada;2021/2022;1;1;1;1
+Valencia;Mallorca;2021/2022;2;2;1;1
+Cádiz;Alavés;2021/2022;0;2;0;3
+Elche;Espanyol;2021/2022;2;2;1;1
+Athletic;Villarreal;2021/2022;2;1;3;0
+Sevilla;Levante;2021/2022;5;3;3;0
+Barcelona;Real Madrid;2021/2022;1;2;0;3
+Betis;Rayo;2021/2022;3;2;3;0
+Atlético;R. Sociedad;2021/2022;2;2;1;1
+Getafe;Celta;2021/2022;0;3;0;3
+Alavés;Elche;2021/2022;1;0;3;0
+Espanyol;Athletic;2021/2022;1;1;1;1
+Villarreal;Cádiz;2021/2022;3;2;3;0
+Mallorca;Sevilla;2021/2022;1;1;1;1
+Rayo;Barcelona;2021/2022;1;0;3;0
+Betis;Valencia;2021/2022;4;1;3;0
+Real Madrid;Osasuna;2021/2022;0;0;1;1
+Celta;R. Sociedad;2021/2022;0;2;0;3
+Granada;Getafe;2021/2022;1;1;1;1
+Levante;Atlético;2021/2022;2;2;1;1
+Elche;Real Madrid;2021/2022;1;2;0;3
+Sevilla;Osasuna;2021/2022;2;0;3;0
+Valencia;Villarreal;2021/2022;2;0;3;0
+Barcelona;Alavés;2021/2022;1;1;1;1
+Cádiz;Mallorca;2021/2022;1;1;1;1
+Atlético;Betis;2021/2022;3;0;3;0
+Getafe;Espanyol;2021/2022;2;1;3;0
+R. Sociedad;Athletic;2021/2022;1;1;1;1
+Rayo;Celta;2021/2022;0;0;1;1
+Levante;Granada;2021/2022;0;3;0;3
+Athletic;Cádiz;2021/2022;0;1;0;3
+Espanyol;Granada;2021/2022;2;0;3;0
+Celta;Barcelona;2021/2022;3;2;3;0
+Alavés;Levante;2021/2022;2;1;3;0
+Real Madrid;Rayo;2021/2022;2;1;3;0
+Villarreal;Getafe;2021/2022;1;0;3;0
+Valencia;Atlético;2021/2022;3;2;3;0
+Mallorca;Elche;2021/2022;2;2;1;1
+Osasuna;R. Sociedad;2021/2022;0;2;0;3
+Betis;Sevilla;2021/2022;0;2;0;3
+Levante;Athletic;2021/2022;0;0;1;1
+Celta;Villarreal;2021/2022;1;1;1;1
+Sevilla;Alavés;2021/2022;2;2;1;1
+Atlético;Osasuna;2021/2022;1;0;3;0
+Barcelona;Espanyol;2021/2022;1;0;3;0
+Getafe;Cádiz;2021/2022;4;0;3;0
+Granada;Real Madrid;2021/2022;1;4;0;3
+Elche;Betis;2021/2022;0;3;0;3
+R. Sociedad;Valencia;2021/2022;0;0;1;1
+Rayo;Mallorca;2021/2022;3;1;3;0
+Athletic;Granada;2021/2022;2;2;1;1
+Alavés;Celta;2021/2022;1;2;0;3
+Valencia;Rayo;2021/2022;1;1;1;1
+Mallorca;Getafe;2021/2022;0;0;1;1
+Villarreal;Barcelona;2021/2022;1;3;0;3
+Betis;Levante;2021/2022;3;1;3;0
+Espanyol;R. Sociedad;2021/2022;1;0;3;0
+Cádiz;Atlético;2021/2022;1;4;0;3
+Real Madrid;Sevilla;2021/2022;2;1;3;0
+Osasuna;Elche;2021/2022;1;1;1;1
+Granada;Alavés;2021/2022;2;1;3;0
+Sevilla;Villarreal;2021/2022;1;0;3;0
+Barcelona;Betis;2021/2022;0;1;0;3
+Atlético;Mallorca;2021/2022;1;2;0;3
+R. Sociedad;Real Madrid;2021/2022;0;2;0;3
+Rayo;Espanyol;2021/2022;1;0;3;0
+Elche;Cádiz;2021/2022;3;1;3;0
+Levante;Osasuna;2021/2022;0;0;1;1
+Celta;Valencia;2021/2022;1;2;0;3
+Getafe;Athletic;2021/2022;0;0;1;1
+Mallorca;Celta;2021/2022;0;0;1;1
+Espanyol;Levante;2021/2022;4;3;3;0
+Alavés;Getafe;2021/2022;1;1;1;1
+Valencia;Elche;2021/2022;2;1;3;0
+Athletic;Sevilla;2021/2022;0;1;0;3
+Villarreal;Rayo;2021/2022;2;0;3;0
+Osasuna;Barcelona;2021/2022;2;2;1;1
+Betis;R. Sociedad;2021/2022;4;0;3;0
+Real Madrid;Atlético;2021/2022;2;0;3;0
+Cádiz;Granada;2021/2022;1;1;1;1
+Celta;Espanyol;2021/2022;3;1;3;0
+Rayo;Alavés;2021/2022;2;0;3;0
+R. Sociedad;Villarreal;2021/2022;1;3;0;3
+Barcelona;Elche;2021/2022;3;2;3;0
+Sevilla;Atlético;2021/2022;2;1;3;0
+Granada;Mallorca;2021/2022;4;1;3;0
+Athletic;Betis;2021/2022;3;2;3;0
+Getafe;Osasuna;2021/2022;1;0;3;0
+Real Madrid;Cádiz;2021/2022;0;0;1;1
+Levante;Valencia;2021/2022;3;4;0;3
+Valencia;Espanyol;2021/2022;1;2;0;3
+Getafe;Real Madrid;2021/2022;1;0;3;0
+Atlético;Rayo;2021/2022;2;0;3;0
+Elche;Granada;2021/2022;0;0;1;1
+Alavés;R. Sociedad;2021/2022;1;1;1;1
+Betis;Celta;2021/2022;0;2;0;3
+Mallorca;Barcelona;2021/2022;0;1;0;3
+Villarreal;Levante;2021/2022;5;0;3;0
+Osasuna;Athletic;2021/2022;1;3;0;3
+Cádiz;Sevilla;2021/2022;0;1;0;3
+Levante;Mallorca;2021/2022;2;0;3;0
+R. Sociedad;Celta;2021/2022;1;0;3;0
+Granada;Barcelona;2021/2022;1;1;1;1
+Real Madrid;Valencia;2021/2022;4;1;3;0
+Rayo;Betis;2021/2022;1;1;1;1
+Sevilla;Getafe;2021/2022;1;0;3;0
+Alavés;Athletic;2021/2022;0;0;1;1
+Osasuna;Cádiz;2021/2022;2;0;3;0
+Villarreal;Atlético;2021/2022;2;2;1;1
+Espanyol;Elche;2021/2022;1;2;0;3
+Athletic;Real Madrid;2021/2022;1;2;0;3
+Elche;Villarreal;2021/2022;1;0;3;0
+Betis;Alavés;2021/2022;4;0;3;0
+Cádiz;Espanyol;2021/2022;2;2;1;1
+Celta;Osasuna;2021/2022;2;0;3;0
+Valencia;Sevilla;2021/2022;1;1;1;1
+Getafe;Granada;2021/2022;4;2;3;0
+Atlético;Levante;2021/2022;0;1;0;3
+Mallorca;R. Sociedad;2021/2022;0;2;0;3
+Barcelona;Rayo;2021/2022;0;1;0;3
+Espanyol;Betis;2021/2022;1;4;0;3
+Levante;Cádiz;2021/2022;0;2;0;3
+Villarreal;Mallorca;2021/2022;3;0;3;0
+Sevilla;Celta;2021/2022;2;2;1;1
+Atlético;Valencia;2021/2022;3;2;3;0
+Granada;Osasuna;2021/2022;0;2;0;3
+Real Madrid;Elche;2021/2022;2;2;1;1
+Rayo;Athletic;2021/2022;0;1;0;3
+R. Sociedad;Getafe;2021/2022;0;0;1;1
+Alavés;Barcelona;2021/2022;0;1;0;3
+Getafe;Levante;2021/2022;3;0;3;0
+Elche;Alavés;2021/2022;3;1;3;0
+Mallorca;Cádiz;2021/2022;2;1;3;0
+Celta;Rayo;2021/2022;2;0;3;0
+Osasuna;Sevilla;2021/2022;0;0;1;1
+Valencia;R. Sociedad;2021/2022;0;0;1;1
+Barcelona;Atlético;2021/2022;4;2;3;0
+Betis;Villarreal;2021/2022;0;2;0;3
+Real Madrid;Granada;2021/2022;1;0;3;0
+Athletic;Espanyol;2021/2022;2;1;3;0
+Sevilla;Elche;2021/2022;2;0;3;0
+Cádiz;Celta;2021/2022;0;0;1;1
+Villarreal;Real Madrid;2021/2022;0;0;1;1
+Rayo;Osasuna;2021/2022;0;3;0;3
+Atlético;Getafe;2021/2022;4;3;3;0
+Alavés;Valencia;2021/2022;2;1;3;0
+Levante;Betis;2021/2022;2;4;0;3
+R. Sociedad;Granada;2021/2022;2;0;3;0
+Espanyol;Barcelona;2021/2022;2;2;1;1
+Mallorca;Athletic;2021/2022;3;2;3;0
+Elche;Rayo;2021/2022;2;1;3;0
+Granada;Villarreal;2021/2022;1;4;0;3
+Osasuna;Atlético;2021/2022;0;3;0;3
+Cádiz;Getafe;2021/2022;1;1;1;1
+Real Madrid;Alavés;2021/2022;3;0;3;0
+Espanyol;Sevilla;2021/2022;1;1;1;1
+Valencia;Barcelona;2021/2022;1;4;0;3
+Betis;Mallorca;2021/2022;2;1;3;0
+Athletic;R. Sociedad;2021/2022;4;0;3;0
+Celta;Levante;2021/2022;1;1;1;1
+Levante;Elche;2021/2022;3;0;3;0
+Mallorca;Valencia;2021/2022;0;1;0;3
+Getafe;Alavés;2021/2022;2;2;1;1
+Rayo;Real Madrid;2021/2022;0;1;0;3
+Atlético;Celta;2021/2022;2;0;3;0
+Villarreal;Espanyol;2021/2022;5;1;3;0
+Sevilla;Betis;2021/2022;2;1;3;0
+R. Sociedad;Osasuna;2021/2022;1;0;3;0
+Barcelona;Athletic;2021/2022;4;0;3;0
+Granada;Cádiz;2021/2022;0;0;1;1
+Alavés;Sevilla;2021/2022;0;0;1;1
+Osasuna;Villarreal;2021/2022;1;0;3;0
+Espanyol;Getafe;2021/2022;2;0;3;0
+Valencia;Granada;2021/2022;3;1;3;0
+Real Madrid;R. Sociedad;2021/2022;4;1;3;0
+Cádiz;Rayo;2021/2022;2;0;3;0
+Elche;Barcelona;2021/2022;1;2;0;3
+Celta;Mallorca;2021/2022;4;3;3;0
+Betis;Atlético;2021/2022;1;3;0;3
+Athletic;Levante;2021/2022;3;1;3;0
+Atlético;Cádiz;2021/2022;2;1;3;0
+Levante;Espanyol;2021/2022;1;1;1;1
+Granada;Elche;2021/2022;0;1;0;3
+Villarreal;Celta;2021/2022;1;0;3;0
+Getafe;Valencia;2021/2022;0;0;1;1
+Rayo;Sevilla;2021/2022;1;1;1;1
+Betis;Athletic;2021/2022;1;0;3;0
+R. Sociedad;Alavés;2021/2022;1;0;3;0
+Barcelona;Osasuna;2021/2022;4;0;3;0
+Mallorca;Real Madrid;2021/2022;0;3;0;3
+Athletic;Getafe;2021/2022;1;1;1;1
+Alavés;Granada;2021/2022;2;3;0;3
+Elche;Valencia;2021/2022;0;1;0;3
+Osasuna;Levante;2021/2022;3;1;3;0
+Rayo;Atlético;2021/2022;0;1;0;3
+Espanyol;Mallorca;2021/2022;1;0;3;0
+Celta;Betis;2021/2022;0;0;1;1
+Cádiz;Villarreal;2021/2022;1;0;3;0
+Sevilla;R. Sociedad;2021/2022;0;0;1;1
+Real Madrid;Barcelona;2021/2022;0;4;0;3
+Getafe;Mallorca;2021/2022;1;0;3;0
+Levante;Villarreal;2021/2022;2;0;3;0
+Celta;Real Madrid;2021/2022;1;2;0;3
+Atlético;Alavés;2021/2022;4;1;3;0
+Athletic;Elche;2021/2022;2;1;3;0
+Betis;Osasuna;2021/2022;4;1;3;0
+Granada;Rayo;2021/2022;2;2;1;1
+Valencia;Cádiz;2021/2022;0;0;1;1
+Barcelona;Sevilla;2021/2022;1;0;3;0
+R. Sociedad;Espanyol;2021/2022;1;0;3;0
+Sevilla;Granada;2021/2022;4;2;3;0
+Cádiz;Betis;2021/2022;1;2;0;3
+Mallorca;Atlético;2021/2022;1;0;3;0
+Villarreal;Athletic;2021/2022;1;1;1;1
+Real Madrid;Getafe;2021/2022;2;0;3;0
+Osasuna;Alavés;2021/2022;1;0;3;0
+Espanyol;Celta;2021/2022;1;0;3;0
+Elche;R. Sociedad;2021/2022;1;2;0;3
+Levante;Barcelona;2021/2022;2;3;0;3
+Rayo;Valencia;2021/2022;1;1;1;1
+R. Sociedad;Betis;2021/2022;0;0;1;1
+Elche;Mallorca;2021/2022;3;0;3;0
+Alavés;Rayo;2021/2022;1;0;3;0
+Valencia;Osasuna;2021/2022;1;2;0;3
+Getafe;Villarreal;2021/2022;1;2;0;3
+Granada;Levante;2021/2022;1;4;0;3
+Atlético;Espanyol;2021/2022;2;1;3;0
+Athletic;Celta;2021/2022;0;2;0;3
+Sevilla;Real Madrid;2021/2022;2;3;0;3
+Barcelona;Cádiz;2021/2022;0;1;0;3
+Mallorca;Alavés;2021/2022;2;1;3;0
+Betis;Elche;2021/2022;0;1;0;3
+Villarreal;Valencia;2021/2022;2;0;3;0
+Atlético;Granada;2021/2022;0;0;1;1
+Celta;Getafe;2021/2022;0;2;0;3
+Osasuna;Real Madrid;2021/2022;1;3;0;3
+Espanyol;Rayo;2021/2022;0;1;0;3
+Levante;Sevilla;2021/2022;2;3;0;3
+Cádiz;Athletic;2021/2022;2;3;0;3
+R. Sociedad;Barcelona;2021/2022;0;1;0;3
+Sevilla;Cádiz;2021/2022;1;1;1;1
+Alavés;Villarreal;2021/2022;2;1;3;0
+Real Madrid;Espanyol;2021/2022;4;0;3;0
+Valencia;Levante;2021/2022;1;1;1;1
+Athletic;Atlético;2021/2022;2;0;3;0
+Elche;Osasuna;2021/2022;1;1;1;1
+Granada;Celta;2021/2022;1;1;1;1
+Rayo;R. Sociedad;2021/2022;1;1;1;1
+Barcelona;Mallorca;2021/2022;2;1;3;0
+Getafe;Betis;2021/2022;0;0;1;1
+Levante;R. Sociedad;2021/2022;2;1;3;0
+Mallorca;Granada;2021/2022;2;2;1;1
+Athletic;Valencia;2021/2022;0;0;1;1
+Celta;Alavés;2021/2022;4;0;3;0
+Cádiz;Elche;2021/2022;3;0;3;0
+Betis;Barcelona;2021/2022;1;2;0;3
+Getafe;Rayo;2021/2022;0;0;1;1
+Villarreal;Sevilla;2021/2022;1;1;1;1
+Espanyol;Osasuna;2021/2022;1;1;1;1
+Atlético;Real Madrid;2021/2022;1;0;3;0
+Valencia;Betis;2021/2022;0;3;0;3
+Granada;Athletic;2021/2022;1;0;3;0
+Barcelona;Celta;2021/2022;3;1;3;0
+Alavés;Espanyol;2021/2022;2;1;3;0
+Osasuna;Getafe;2021/2022;1;1;1;1
+Sevilla;Mallorca;2021/2022;0;0;1;1
+Elche;Atlético;2021/2022;0;2;0;3
+R. Sociedad;Cádiz;2021/2022;3;0;3;0
+Rayo;Villarreal;2021/2022;1;5;0;3
+Real Madrid;Levante;2021/2022;6;0;3;0
+Espanyol;Valencia;2021/2022;1;1;1;1
+Athletic;Osasuna;2021/2022;2;0;3;0
+Atlético;Sevilla;2021/2022;1;1;1;1
+Celta;Elche;2021/2022;1;0;3;0
+Cádiz;Real Madrid;2021/2022;1;1;1;1
+Getafe;Barcelona;2021/2022;0;0;1;1
+Levante;Alavés;2021/2022;3;1;3;0
+Mallorca;Rayo;2021/2022;2;1;3;0
+Betis;Granada;2021/2022;2;0;3;0
+Villarreal;R. Sociedad;2021/2022;1;2;0;3
+Rayo;Levante;2021/2022;2;4;0;3
+Real Madrid;Betis;2021/2022;0;0;1;1
+Valencia;Celta;2021/2022;2;0;3;0
+Elche;Getafe;2021/2022;3;1;3;0
+Alavés;Cádiz;2021/2022;0;1;0;3
+Granada;Espanyol;2021/2022;0;0;1;1
+Osasuna;Mallorca;2021/2022;0;2;0;3
+Barcelona;Villarreal;2021/2022;0;2;0;3
+R. Sociedad;Atlético;2021/2022;1;2;0;3
+Sevilla;Athletic;2021/2022;1;0;3;0
